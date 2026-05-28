@@ -6,3 +6,4 @@ Learning to earn GitHub achievements
 ## Final awesome feature
 ## YOLO feature
 ## Pair Extraordinaire feature
+## Collaborated feature
